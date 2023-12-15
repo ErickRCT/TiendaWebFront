@@ -1,0 +1,25 @@
+.cabecera {
+    background-color: #222222;
+}
+
+.color-letras{
+    color: white;
+}
+
+
+
+.contenedor-principal{
+    background-color: #303030;
+}
+
+.filtros{
+    padding: 30px;
+}
+
+.filtros > div{
+    margin-bottom: 15px;
+}
+
+.tarjeta-producto{
+    padding: 20px;
+}
